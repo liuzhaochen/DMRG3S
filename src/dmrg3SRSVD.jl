@@ -169,7 +169,11 @@ function dmrg3SRSVD(
                     end
                     qr_ind = uniqueind(Q, P)
                     @timeit timer "Exp: Tensor" MQ = M * dag(Q)
-                    @timeit timer "Exp: svd" U, _= factorize(MQ, dag(qr_ind),maxdim=min(dim(ind_cnew)-10,target_dim),
+                    bond_dim = dim(ind_cnew)
+                    # 10: oversampling parameter 
+                    expand_dim = bond_dim>10 ? bond_dim-10 : bond_dim
+                    @timeit timer "Exp: svd" U, _= factorize(MQ, dag(qr_ind),maxdim=
+                    min(expand_dim,target_dim),
                     ortho="right",which_decomp="svd")
                     @timeit timer "Exp: Tensor" P = Q * U * alpha
                     noprime!(P)
