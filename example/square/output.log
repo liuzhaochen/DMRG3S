@@ -1,0 +1,72 @@
+===== Run at Wed Dec 31 02:34:16 PM CET 2025 =====
+After sweep 1 energy=-45.81460205346561  maxlinkdim=20 maxerr=0.00E+00 mixer=2.00E-02 time=14.017
+After sweep 2 energy=-57.00997740112231  maxlinkdim=80 maxerr=0.00E+00 mixer=2.00E-02 time=6.378
+After sweep 3 energy=-61.091773804633235  maxlinkdim=260 maxerr=0.00E+00 mixer=2.00E-02 time=13.438
+After sweep 4 energy=-62.292472282515085  maxlinkdim=460 maxerr=0.00E+00 mixer=2.00E-02 time=21.232
+After sweep 5 energy=-62.71458650747089  maxlinkdim=660 maxerr=0.00E+00 mixer=2.00E-02 time=33.395
+After sweep 6 energy=-62.901175969427015  maxlinkdim=860 maxerr=0.00E+00 mixer=2.00E-02 time=44.374
+After sweep 7 energy=-63.0142250836574  maxlinkdim=1060 maxerr=0.00E+00 mixer=2.00E-02 time=57.679
+After sweep 8 energy=-63.10273801354545  maxlinkdim=1100 maxerr=1.22E-06 mixer=1.22E-06 time=61.933
+After sweep 9 energy=-63.1700411319376  maxlinkdim=1100 maxerr=3.79E-06 mixer=3.79E-06 time=60.245
+After sweep 10 energy=-63.21284326113042  maxlinkdim=1100 maxerr=6.96E-06 mixer=6.96E-06 time=61.719
+After sweep 11 energy=-63.238430503324324  maxlinkdim=1100 maxerr=1.02E-05 mixer=1.02E-05 time=63.845
+After sweep 12 energy=-63.25433095944014  maxlinkdim=1100 maxerr=1.43E-05 mixer=1.43E-05 time=80.335
+After sweep 13 energy=-63.263698671039016  maxlinkdim=1100 maxerr=1.53E-05 mixer=1.53E-05 time=86.830
+After sweep 14 energy=-63.26960315687215  maxlinkdim=1100 maxerr=1.50E-05 mixer=1.50E-05 time=76.272
+After sweep 15 energy=-63.27391165812615  maxlinkdim=1100 maxerr=1.51E-05 mixer=1.51E-05 time=60.102
+After sweep 16 energy=-63.276927954770684  maxlinkdim=1100 maxerr=1.61E-05 mixer=1.61E-05 time=67.094
+After sweep 17 energy=-63.279005701868755  maxlinkdim=1100 maxerr=1.43E-05 mixer=1.43E-05 time=61.988
+After sweep 18 energy=-63.2807712874604  maxlinkdim=1100 maxerr=1.41E-05 mixer=1.41E-05 time=74.821
+After sweep 19 energy=-63.282061862597615  maxlinkdim=1100 maxerr=1.48E-05 mixer=1.48E-05 time=85.594
+After sweep 20 energy=-63.283165906121525  maxlinkdim=1100 maxerr=1.53E-05 mixer=1.53E-05 time=71.154
+After sweep 21 energy=-63.283817826030116  maxlinkdim=1100 maxerr=1.61E-05 mixer=1.61E-05 time=68.892
+After sweep 22 energy=-63.28450889256288  maxlinkdim=1100 maxerr=1.59E-05 mixer=1.59E-05 time=106.629
+After sweep 23 energy=-63.28515293563721  maxlinkdim=1100 maxerr=1.63E-05 mixer=1.63E-05 time=87.557
+After sweep 24 energy=-63.285537798674  maxlinkdim=1100 maxerr=1.45E-05 mixer=1.45E-05 time=82.331
+After sweep 25 energy=-63.28594996985825  maxlinkdim=1100 maxerr=1.47E-05 mixer=1.47E-05 time=77.747
+After sweep 26 energy=-63.286278395254506  maxlinkdim=1100 maxerr=1.47E-05 mixer=1.47E-05 time=69.114
+After sweep 27 energy=-63.28661938019874  maxlinkdim=1100 maxerr=1.39E-05 mixer=1.39E-05 time=75.465
+After sweep 28 energy=-63.286940445959154  maxlinkdim=1100 maxerr=1.56E-05 mixer=1.56E-05 time=78.772
+After sweep 29 energy=-63.28722118617081  maxlinkdim=1100 maxerr=1.47E-05 mixer=1.47E-05 time=77.376
+After sweep 30 energy=-63.287472298297345  maxlinkdim=1100 maxerr=1.56E-05 mixer=1.56E-05 time=80.706
+After sweep 31 energy=-63.28762591191795  maxlinkdim=1100 maxerr=1.56E-05 mixer=1.56E-05 time=65.843
+After sweep 32 energy=-63.28786463003033  maxlinkdim=1100 maxerr=1.40E-05 mixer=1.40E-05 time=71.521
+After sweep 33 energy=-63.28799206622771  maxlinkdim=1100 maxerr=1.42E-05 mixer=1.42E-05 time=87.700
+After sweep 34 energy=-63.28813125638975  maxlinkdim=1100 maxerr=1.48E-05 mixer=1.48E-05 time=81.002
+After sweep 35 energy=-63.288279633228356  maxlinkdim=1100 maxerr=1.40E-05 mixer=1.40E-05 time=79.987
+After sweep 36 energy=-63.28841329304712  maxlinkdim=1100 maxerr=1.43E-05 mixer=1.43E-05 time=76.781
+After sweep 37 energy=-63.288538198265414  maxlinkdim=1100 maxerr=1.45E-05 mixer=1.45E-05 time=74.771
+After sweep 38 energy=-63.288666627680904  maxlinkdim=1100 maxerr=1.63E-05 mixer=1.63E-05 time=82.701
+After sweep 39 energy=-63.28879451000032  maxlinkdim=1100 maxerr=1.43E-05 mixer=1.43E-05 time=74.237
+After sweep 40 energy=-63.28889810519824  maxlinkdim=1100 maxerr=1.54E-05 mixer=1.54E-05 time=68.973
+After sweep 41 energy=-63.28900331700089  maxlinkdim=1100 maxerr=1.54E-05 mixer=1.54E-05 time=75.686
+After sweep 42 energy=-63.2891251009423  maxlinkdim=1100 maxerr=1.46E-05 mixer=1.46E-05 time=75.770
+After sweep 43 energy=-63.28921265046068  maxlinkdim=1100 maxerr=1.53E-05 mixer=1.53E-05 time=75.610
+After sweep 44 energy=-63.28926887824896  maxlinkdim=1100 maxerr=1.65E-05 mixer=1.65E-05 time=86.435
+After sweep 45 energy=-63.28935137218343  maxlinkdim=1100 maxerr=1.56E-05 mixer=1.56E-05 time=73.633
+After sweep 46 energy=-63.28936999751055  maxlinkdim=1100 maxerr=1.60E-05 mixer=1.60E-05 time=78.655
+After sweep 47 energy=-63.28941552407644  maxlinkdim=1100 maxerr=1.51E-05 mixer=1.51E-05 time=72.690
+After sweep 48 energy=-63.28948621488764  maxlinkdim=1100 maxerr=1.48E-05 mixer=1.48E-05 time=76.481
+After sweep 49 energy=-63.28952121152646  maxlinkdim=1100 maxerr=1.55E-05 mixer=1.55E-05 time=79.264
+After sweep 50 energy=-63.28958340665569  maxlinkdim=1100 maxerr=1.58E-05 mixer=1.58E-05 time=75.242
+────────────────────────────────────────────────────────────────────────────────
+                                       Time                    Allocations      
+                              ───────────────────────   ────────────────────────
+      Tot / % measured:            3442s /  86.3%           3.86TiB /  85.7%    
+
+Section               ncalls     time    %tot     avg     alloc    %tot      avg
+────────────────────────────────────────────────────────────────────────────────
+dmrg: eigsolve         3.90k    1668s   56.2%   428ms   2.11TiB   63.8%   567MiB
+dmrg: Expansion        3.90k     919s   31.0%   236ms   1.07TiB   32.5%   289MiB
+  Exp: Tensor          11.7k     702s   23.6%  60.0ms    895GiB   26.4%  78.3MiB
+  Exp: DirectSum       7.80k    54.5s    1.8%  6.98ms   76.0GiB    2.2%  10.0MiB
+  Exp: svd             3.90k    32.6s    1.1%  8.36ms   18.9GiB    0.6%  4.95MiB
+  Exp: QR              3.90k    20.9s    0.7%  5.35ms   9.65GiB    0.3%  2.53MiB
+  Exp: RandomTensor    3.90k    15.9s    0.5%  4.07ms   17.5GiB    0.5%  4.60MiB
+dmrg: 1-site-SVD       3.90k     193s    6.5%  49.4ms   63.5GiB    1.9%  16.7MiB
+dmrg: SVD              3.90k     190s    6.4%  48.8ms   61.4GiB    1.8%  16.1MiB
+────────────────────────────────────────────────────────────────────────────────(t, U) = (1.0, 0.0)
+flux(psi) = QN(("Nf",36,-1),("Sz",0))
+maxlinkdim(psi) = 1100
+energy = -63.28958340665569
+abs(energy / Ex - 1) = 0.0013542455823245536
