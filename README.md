@@ -3,7 +3,6 @@
 DMRG3S is a DMRG solver implementing a variant of strictly single-site DMRG with subspace expansion [1], combined with a randomized SVD strategy [3], 
 and fully based on [ITensorMPS.jl](https://github.com/ITensor/ITensorMPS.jl).
 
-based on [ITensorMPS.jl](https://github.com/ITensor/ITensorMPS.jl).
 
 Related approaches also includes CBE algorithm [2,4,5].
 
