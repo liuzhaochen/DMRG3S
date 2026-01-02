@@ -4,7 +4,7 @@ DMRG3S is a DMRG solver implementing a variant of strictly single-site DMRG with
 and fully based on [ITensorMPS.jl](https://github.com/ITensor/ITensorMPS.jl).
 
 
-Related approaches also includes Controlled Bond Expansion (CBE) algorithm [2,4,5].
+Related approaches also include the Controlled Bond Expansion (CBE) algorithm [2,4,5].
 
 The code has only been tested for limited cases. Please use it with caution and validate results carefully.
 ## Example
